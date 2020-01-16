@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hd.h": "c",
+        "fs.h": "c",
+        "fs_misc.h": "c"
+    }
+}

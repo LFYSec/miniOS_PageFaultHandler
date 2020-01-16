@@ -1,0 +1,29 @@
+# ---> C
+# generated binary files
+*.o
+*.a
+*.ko
+*.obj
+*.elf
+*.img
+*.bin
+user/app.tar
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# ---> VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.json
+
+# misc
+tags
+cscope*
+peda*
+demo/list
